@@ -1,0 +1,9 @@
+{
+    "name": "NEvana_surprise",
+    "description": "Dear god, dont use this",
+    "version": "1.0.0",
+    "author": "NEvana#0003",
+    "theme": "NEvana_surprise.css",
+    "consent": "false",
+    "license": "MIT"
+}
